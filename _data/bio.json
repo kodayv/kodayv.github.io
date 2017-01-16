@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Virginia Koday",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://kodayv.github.io/template/images/profme.png",
+    "email": "kodayv@hawaii.edu",
+    "phone": "",
+    "website": "https://kodayv.github.io",
+    "summary": "I am studying for a minor in Computer Science and a B.A. in Russian Studies at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,29 +17,24 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kodayv",
+        "url": "http://kodayv.github.io"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "kodayv",
+        "url": "http://linkedin.com/in/virginia-koday-684b766"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "@Kodayv",
+        "url": "http://twitter.com/@Kodayv"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Russia - America relations",
       "keywords": [
         "Arduino",
         "TI MSP430"
