@@ -2,7 +2,7 @@
   "basics": {
     "name": "Virginia Koday",
     "label": "Student",
-    "picture": "https://kodayv.github.io/template/images/profme.png",
+    "picture": "https://kodayv.github.io/images/profme.jpg",
     "email": "kodayv@hawaii.edu",
     "phone": "",
     "website": "https://kodayv.github.io",
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Analytics",
       "keywords": [
       ]
     }
