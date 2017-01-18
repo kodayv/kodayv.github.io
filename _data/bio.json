@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "kodayv",
-        "url": "http://linkedin.com/in/virginia-koday-684b766"
+        "url": "http://linkedin.com/in/virginia-koday-684b7664"
       },
       {
         "network": "twitter",
@@ -34,19 +34,19 @@
   },
   "interests": [
     {
-      "name": "Russia - America relations",
+      "name": "Analytics",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Russian-American relations",
       "keywords": [
       ]
     },
     {
-      "name": "Analytics",
+      "name": "Intelligence",
       "keywords": [
       ]
     }
@@ -56,41 +56,43 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Ajax",
         "C",
         "C++",
+        "Html",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Php",
+        "Assembly"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Microsoft",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Wordpress"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "area": "Computer Science and Russian Studies (expected Spring, 2018)",
+      "studyType": "B.A.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.65",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "United States Marine Corps",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
