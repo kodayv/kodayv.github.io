@@ -101,16 +101,18 @@
       "highlights": [
         "Platoon Sergeant, Camp Leatherneck, Afghanistan",
 "May 2012-Feb 2013",
+        [
 "*Planned, directed, and coordinated the staff of a retrograde and demolition crew.",
 "* Successfully developed and maintained liaisons with other units and on-site companies so that there was good coordination of retrograde and demolition projects .",
 "*Managed the retrograde projects, which included the assignment of crew leaders, scheduling work times, managing personal equipment, ensuring that safety protocols were followed, creating appointments for heavy equipment use, and creating appointments at disposition sites.",
-"* Managed and supervised the retrograde over 10 million dollars’ worth of military equipment",
+"* Managed and supervised the retrograde over 10 million dollars’ worth of military equipment",]
                             
 "Radio Shop Chief, Camp Pendleton, California 	",
 "Jul 2011-May 2012	",
+  [
 "* Supervised the activities of a 39 team radio technician crew.",
 "* Read reports, attending meetings, trained personnel, and ensured equipment accountability.",
-"* Provided guidance and instruction to Marines to achieve 100% efficiency within the shop.",
+"* Provided guidance and instruction to Marines to achieve 100% efficiency within the shop.",]
 
 "Computer Shop Chief, Camp Lejeune, North Carolina 	",
 "Jun 2009-Aug 2010	",
@@ -136,43 +138,41 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Gen-Cyber",
+      "website": "https://www.gen-cyber.com/",
+      "position": "Puzzle Designer - mentor",
+      "startDate": "2016-07-13",
+      "endDate": "2016-07-17",
+      "summary": "Assisted in the Gen-Cyber summer program for high-schoolers",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Designed cryptographic puzzle for students",
+        "Lead discussion on Python programming"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Wiswell Scholarship",
+      "date": "December 2016",
+      "awarder": "University of Hawaii - Russian Department",
+      "summary": "Outstanding Academics in Russian Studies."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Deans list",
+      "date": "May 2016",
+      "awarder": "University of Hawaii",
+      "summary": "Recieved top marks for degree."
+    },
+    {
+        "title": "Deans list",
+      "date": "December 2015",
+      "awarder": "University of Hawaii",
+      "summary": "Recieved top marks for degree."
+    },
+      "title": "NATO ISAF Medal",
+      "date": "September 2012",
+      "awarder": "Supreme Headquarters Allied Powers Europe",
+      "summary": "The NATO ISAF medal was awarded for service with the North Atlantic Treaty Organization in relation to the International Security Asistance Force Operation in Afghanistan."
     }
   ],
   "references": [
