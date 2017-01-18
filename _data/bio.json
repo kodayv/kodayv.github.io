@@ -81,9 +81,19 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science and Russian Studies (expected Spring, 2018)",
       "studyType": "B.A.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
       "gpa": "3.65",
+      "courses": [
+      ]
+    }
+     {
+      "institution": "American Military University",
+      "area": "Sociology",
+      "studyType": "B.A.",
+      "startDate": "2010-09-01",
+      "endDate": "2014-12-15",
+      "gpa": "3.63",
       "courses": [
       ]
     }
@@ -95,7 +105,7 @@
       "website": "http://mosmanual.com/pages/mos/28/2862.php",
       "startDate": "2004-08-08",
       "endDate": "2013-08-22",
-      "summary": "Supervised the repair of electronics equipments",
+      "summary": "Supervised the repair of electronic equipment",
       "highlights": [
         "Platoon Sergeant, Camp Leatherneck, Afghanistan",
 "May 2012-Feb 2013",
