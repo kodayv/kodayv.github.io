@@ -101,47 +101,71 @@
   "work": [
     {
       "company": "United States Marine Corps",
-      "position": "Ground Electronics Systems Maintenance Technician (MOS 2862)",
-      "website": "http://mosmanual.com/pages/mos/28/2862.php",
-      "startDate": "2004-08-08",
-      "endDate": "2013-08-22",
+      "position": "Platoon Sergeant, Camp Leatherneck, Afghanistan")",
+      "website": "",
+      "startDate": "May 2012",
+      "endDate": "Feb 2013",
+      "summary": "Managed a team of Marines on a Deployment",
+      "highlights": [
+ "Planned, directed, and coordinated the staff of a retrograde and demolition crew.",
+ "Successfully developed and maintained liaisons with other units and on-site companies so that there was good coordination of retrograde and demolition projects .",
+ "Managed the retrograde projects, which included the assignment of crew leaders, scheduling work times, managing personal equipment, ensuring that safety protocols were followed, creating appointments for heavy equipment use, and creating appointments at disposition sites.",
+ "Managed and supervised the retrograde over 10 million dollars’ worth of military equipment",
+        ]
+    }
+    {
+      "company": "United States Marine Corps",
+      "position": "Radio Shop Chief, Camp Pendleton, California 	(MOS 2862)",
+      "website": "",
+      "startDate": "Jul 2011",
+      "endDate": "May 2012",
       "summary": "Supervised the repair of electronic equipment",
       "highlights": [
-        "Platoon Sergeant, Camp Leatherneck, Afghanistan",
-"May 2012-Feb 2013",
-        [
-"*Planned, directed, and coordinated the staff of a retrograde and demolition crew.",
-"* Successfully developed and maintained liaisons with other units and on-site companies so that there was good coordination of retrograde and demolition projects .",
-"*Managed the retrograde projects, which included the assignment of crew leaders, scheduling work times, managing personal equipment, ensuring that safety protocols were followed, creating appointments for heavy equipment use, and creating appointments at disposition sites.",
-"* Managed and supervised the retrograde over 10 million dollars’ worth of military equipment",]
-                            
-"Radio Shop Chief, Camp Pendleton, California 	",
-"Jul 2011-May 2012	",
-        [
-"* Supervised the activities of a 39 team radio technician crew.",
-"* Read reports, attending meetings, trained personnel, and ensured equipment accountability.",
-"* Provided guidance and instruction to Marines to achieve 100% efficiency within the shop.",]
-
-"Computer Shop Chief, Camp Lejeune, North Carolina 	",
-"Jun 2009-Aug 2010	",[
-"* Supervised the activities of a 26 team computer technician crew.",
-"* Participated in board meetings with other supervisors.",
-"* Managed over $50,000 dollars’ worth of technical equipment.",]
-
-"Shipping and Receiving NCO, Camp Lejeune, North Carolina 	",
-"Sep 2006-Mar 2009",[
-"* Provided customer service to the platoon.",
-"*Monitored and recorded the input and output of all broken and repaired gear in the platoon",
-"* Maintained liaisons with other units outside of the battalion",
-"* Maintained a shop which received a grade of 100% upon inspection.",]
-
-"Computer Technician, Camp Lejeune, North Carolina 	",
-"Jul 2006-Sep 2006									",[
-"* Successfully repaired computer devices",
-"*Conducted inspections of devices and equipment to diagnose and troubleshoot",
-"*Inventoried and tested repair equipment to ensure accountability and calibration.",
-"*maintained a Secret clearance"]
-      ]
+        "Supervised the activities of a 39 team radio technician crew.",
+        "Read reports, attended meetings, trained personnel, and ensured equipment accountability.",
+        "Provided guidance and instruction to Marines to achieve 100% efficiency within the shop.",
+        ]
+    }
+ {
+      "company": "United States Marine Corps",
+      "position": "Computer Shop Chief, Camp Lejeune, North Carolina	(MOS 2847)",
+      "website": "",
+      "startDate": "Jun 2009",
+      "endDate": "Aug 2010",
+      "summary": "Supervised the repair of electronic equipment",
+      "highlights": [
+        "Supervised the activities of a 26 team computer technician crew.",
+        "Participated in board meetings with other supervisors.",
+        "Managed over $50,000 dollars’ worth of technical equipment.",
+        ]
+    }
+ {
+      "company": "United States Marine Corps",
+      "position": "Shipping and Receiving NCO, Camp Lejeune, North Carolina (MOS 2822)",
+      "website": "",
+      "startDate": "Sep 2006",
+      "endDate": "Mar 2009",
+      "summary": "Ensured equipment shipping and tracking",
+      "highlights": [
+        "Provided customer service to the platoon.",
+        "Monitored and recorded the input and output of all broken and repaired gear in the platoon",
+        "Maintained liaisons with other units outside of the battalion",
+        "Maintained a shop which received a grade of 100% upon inspection.",
+        ]
+    }
+ {
+      "company": "United States Marine Corps",
+      "position": "Computer Technician, Camp Lejeune, North Carolina (MOS 2822)",
+      "website": "",
+      "startDate": "Jul 2006",
+      "endDate": "Sept 2006",
+      "summary": "Repaired and conducted maintenance of electronic equipment",
+      "highlights": [
+        "Successfully repaired computer devices",
+        "Conducted inspections of devices and equipment to diagnose and troubleshoot",
+        "Inventoried and tested repair equipment to ensure accountability and calibration.",
+        "maintained a Secret clearance"
+        ]
     },
   ],
   "volunteer": [
