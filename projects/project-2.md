@@ -3,22 +3,20 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/CampusTravel
 date: 2015
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - WordPress
+  - Visual Studio
+  - Ionic
+summary: A responsive web application for travel planning that I completed in ICS 415.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Campus Travel Website is a web application that I created in my web programming class in ICS 415. The project helped me learn how to design and implement a responsive web site and phone application.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The implementation of the website was through different application processes, to include WordPress, Html/php, and Ionic. The site features the ablity to create new Agents, book travels to various destinations and costs, search through the database, and a mobile friendly page.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="http://kodayv.ics415.com/"><i class=""></i>Campus Travel Website</a>
