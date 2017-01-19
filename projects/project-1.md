@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bb8.jpg
+image: images/bb8.png
 title: BB-8 Game
 permalink: projects/bb8
 date: 2015
