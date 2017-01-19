@@ -69,6 +69,7 @@
       "level": "",
       "keywords": [
         "Microsoft",
+        "Ionic",
         "Ubuntu",
         "Git/GitHub",
         "g++",
@@ -102,8 +103,8 @@
       "company": "United States Marine Corps",
       "position": "Platoon Sergeant, Camp Leatherneck, Afghanistan",
       "website": "",
-      "startDate": "May 2012",
-      "endDate": "Feb 2013",
+      "startDate": "2012-05",
+      "endDate": "2013-02",
       "summary": "Managed a team of Marines on a Deployment",
       "highlights": [
  "Planned, directed, and coordinated the staff of a retrograde and demolition crew.",
@@ -116,8 +117,8 @@
       "company": "United States Marine Corps",
       "position": "Radio Shop Chief, Camp Pendleton, California",
       "website": "",
-      "startDate": "Jul 2011",
-      "endDate": "May 2012",
+      "startDate": "2011-07",
+      "endDate": "2012-05",
       "summary": "Supervised the repair of electronic equipment",
       "highlights": [
         "Supervised the activities of a 39 team radio technician crew.",
@@ -129,8 +130,8 @@
       "company": "United States Marine Corps",
       "position": "Computer Shop Chief, Camp Lejeune, North Carolina",
       "website": "",
-      "startDate": "Jun 2009",
-      "endDate": "Aug 2010",
+      "startDate": "2009-06",
+      "endDate": "2010-08",
       "summary": "Supervised the repair of electronic equipment",
       "highlights": [
         "Supervised the activities of a 26 team computer technician crew.",
@@ -142,8 +143,8 @@
       "company": "United States Marine Corps",
       "position": "Shipping and Receiving NCO, Camp Lejeune, North Carolina",
       "website": "",
-      "startDate": "Sep 2006",
-      "endDate": "Mar 2009",
+      "startDate": "2006-09",
+      "endDate": "2009-03",
       "summary": "Ensured equipment shipping and tracking",
       "highlights": [
         "Provided customer service to the platoon.",
@@ -156,8 +157,8 @@
       "company": "United States Marine Corps",
       "position": "Computer Technician, Camp Lejeune, North Carolina",
       "website": "",
-      "startDate": "Jul 2006",
-      "endDate": "Sept 2006",
+      "startDate": "2006-07",
+      "endDate": "2006-09",
       "summary": "Repaired and conducted maintenance of electronic equipment",
       "highlights": [
         "Successfully repaired computer devices",
