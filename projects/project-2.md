@@ -19,4 +19,4 @@ The Campus Travel Website is a web application that I created in my web programm
 
 The implementation of the website was through different application processes, to include WordPress, Html/php, and Ionic. The site features the ablity to create new Agents, book travels to various destinations and costs, search through the database, and a mobile friendly page.
  
-Source: <a href="http://kodayv.ics415.com/"><i class=""></i>Campus Travel Website</a>
+To visit my website: <a href="http://kodayv.ics415.com/"><i class=""></i>Campus Travel Website</a>
