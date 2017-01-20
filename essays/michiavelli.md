@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Michiavellian Principals of Power
-date: 2015-09-08
+date: 2014-01-25
 labels:
   - Power
   - Michiavelli
