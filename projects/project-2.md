@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/holiday card.jpg
+image: images/holiday card (2).jpg
 title: Campus Travel
 permalink: projects/CampusTravel
 date: 2015
