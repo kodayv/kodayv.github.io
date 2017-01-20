@@ -1,18 +1,18 @@
 ---
 layout: essay
 type: essay
-title: Nationalism and the Annexation of Crimea - report summary
-date: 2014-08-31
+title: My journey into Software Engineering
+date: 2017-01-20
 labels:
-  - Russian
-  - Ukraine
-  - National identity
+  - Software Engineering
+  - Education
+  - Professional Development
 ---
 
 
-<img class="ui medium right floated image" src="../images/Crimea_republic_map_2.png">
+<img class="ui medium right floated image" src="../images/Software_Engineer.jpg">
 
-Software Engineering is a rigorous course offered at the University of Hawaii’s Computer Science program. The multitude of skills that can be obtained by taking this course makes it vital for anyone wanting to gain proficiency in the areas of programming. Below are a skills that are of personal interest to me.
+Software Engineering is a rigorous course offered at the University of Hawaii’s Computer Science program. The multitude of skills that can be obtained by taking this course makes it vital for anyone wanting to gain proficiency in the areas of programming. Below are a skills that are of personal interest to me..jpg
 
 ## Software Engineering Concepts
 Becoming skilled at creating a program takes lots of practice. This course promises to develop proficiency in the design, implementation, and testing of a code. Project management, quality assurance, and the different coding environments are also important skills I am looking forward to having developed.
