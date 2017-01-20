@@ -28,4 +28,4 @@ Only passing scrutinization, my conclusion to the research was made and submitte
 
 <hr>
 
-To read complete project: <a href="https://github.com/kodayv/Analysis/CrimeaAnalysis.pdf"><i class="large github icon "></i>kodayv/Analysis/CrimeaAnalysis.pdf</a>
+To read complete project: <a href="https://github.com/kodayv/Analysis/blob/master/CrimeaAnalysis.pdf"><i class="large github icon "></i>CrimeaAnalysis.pdf</a>
