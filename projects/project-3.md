@@ -29,8 +29,6 @@ Evaluation of all the sources was required, as some articles that were found see
 With the credible data, I tested my hypothesis with the competing hypothesis that there would be a lot of people who identified themselves as not Russian.
 Only passing scrutinization, my conclusion to the research was made and submitted to my client. 
 
-</pre>
-
 <hr>
 
 To read complete project: <a href="https://github.com/kodayv/Analysis/blob/master/CrimeaAnalysis.pdf"><i class="large github icon "></i>CrimeaAnalysis.pdf</a>
