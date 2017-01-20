@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CrimeamapWEB.png
+image: images/Crimea_Miting_620 (2).jpg
 title: Research and Analysis project
 permalink: projects/analysis
 date: 2014
