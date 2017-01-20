@@ -7,7 +7,7 @@ title: Nationalism and the Annexation of Crimea - report summary
   - National identity
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/Crimea_republic_map_2.png">
 
 My research as to the connection between nationalism and the annexation of Crimea can be summed up as follows:
 
@@ -22,3 +22,7 @@ Due to their friendly relationship with Russia and their language, Russians in U
 ## Resistance to assimilation
 
 On a functional perspective, Crimea was a dysfunctional region in Ukraine. The Crimeans met the assimilation attempts with resistance and violence against Ukraine. Their language, culture, heritage, religion, political party views, and collective mentality was the same as Russia. Introducing hardships and attempting to assimilate a nationality made the people in Crimea more resolved and aggressive in preserving their Russian nationalism. As the conflicts between Ukrainians and Crimeans escalated, Crimea voted to separate their region from Ukraine. Once separated from Ukraine, Russia annexed Crimea. This annexation meant that those in Crimea can retain their nationality without facing discrimination in their nation.
+
+<hr>
+
+To read complete project: <a href="https://github.com/kodayv/Analysis/blob/master/CrimeaAnalysis.pdf"><i class="large github icon "></i>CrimeaAnalysis.pdf</a>
