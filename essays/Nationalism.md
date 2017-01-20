@@ -2,10 +2,13 @@
 layout: essay
 type: essay
 title: Nationalism and the Annexation of Crimea - report summary
+date: 2014-05-19
+labels:
   - Russian
   - Ukraine
   - National identity
 ---
+
 
 <img class="ui tiny right spaced image" src="../images/Crimea_republic_map_2.png">
 
