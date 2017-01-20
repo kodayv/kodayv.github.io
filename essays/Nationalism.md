@@ -22,7 +22,7 @@ A conflict in national identity may have been a precursor to annexation. The Cri
 
 Due to their friendly relationship with Russia and their language, Russians in Ukraine were looked down upon as enemy fraternizers by western Ukraine. As compared with findings from Janmaat, Crimean people fought the language law for several years (1999). As time progressed, and more of Ukraine started speaking Ukrainian instead Russian, discrimination against Crimea was a norm. Western regions saw Crimea as an area that was refusing to cooperate with Ukrainian nationalism in favor or Russia. Crimea saw the Ukraine as implementing language as a way to culturally override their ethnicity. This created a lot of tension between the areas, and violent demonstrations would occur. 
 
-<img class="ui medium left floated image" src="../images/Crimea_Miting_620.png">
+<img class="ui medium left floated image" src="../images/Crimea_Miting_620.jpg">
 
 
 ## Resistance to assimilation
