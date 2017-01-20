@@ -14,10 +14,7 @@ summary: Analysis on nationalism and annexation of Crimea
 ---
 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/CrimeamapWEB.png">
-
-</div>
+<img class="ui medium right floated image" src="../images/Crimea_republic_map_2.png">
 
 
 In March of 2014 the southern part of Ukraine called Crimea voted to seperate themselves from the rest of the Ukraine. Shortly aftwards Russia annexed Crimea. Out of personal curiousity of this recent event, I decided to commit my capstone thesis into finding out how the citizens of Crimea felt towards Ukraine and Russia.
