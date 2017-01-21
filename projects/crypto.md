@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/starwars1.png
+image: images/starwars1.jpg
 title: Droid Logic Puzzle
 permalink: projects/crypto
 date: 2016
