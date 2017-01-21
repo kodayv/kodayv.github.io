@@ -19,9 +19,11 @@ summary: Analysis on nationalism and annexation of Crimea
 
 In March of 2014 the southern part of Ukraine called Crimea voted to seperate themselves from the rest of the Ukraine. Shortly aftwards Russia annexed Crimea. Out of personal curiousity of this recent event, I decided to commit my capstone thesis into finding out how the citizens of Crimea felt towards Ukraine and Russia.
 
-<img class="ui medium left floated image" src="../images/Relationship_of_data,_information_and_intelligence.png">
 
 Following the analytic process, I determined the problem to be one of nationality, of who the Crimeans identified themselves with.
+
+
+<img class="ui medium left floated image" src="../images/Relationship_of_data,_information_and_intelligence.png">
 
 -I hypothesized that given the history of Crimea being a long standing part of Russia, and the continuing Russian military presence that there would be a lot of those who identified themselves to be Russian over Ukrainian.
 
