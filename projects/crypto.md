@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/starwars.png
+image: images/starwars1.png
 title: Droid Logic Puzzle
 permalink: projects/crypto
 date: 2016
@@ -19,7 +19,7 @@ With this direction, I came up with the idea of a logic puzzle that has been enc
 The encryption, being an important part of data security had to be one in which high school aged participants will be able to work on.
 I therefore decided on a basic Ceasar Cypher for the encryption, and designed a logic puzzle based on the star wars theme.
 
-<img class="ui medium left floated image" src="../images/droid table.png">
+<img class="ui medium right floated image" src="../images/droid table.png">
 
 
 Wanting to make the puzzle itself engaging, I committed myself to designing a page that would uphold the theme and spark interest in encryption and logic.
