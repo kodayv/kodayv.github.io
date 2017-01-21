@@ -29,7 +29,7 @@ The result of the project was really exciting, for it proved to be stimulating a
 
 
 
-Here you view the [complete puzzle](https://github.com/kodayv/kodayv.github.io/blob/master/images/Driodlogicpuzzle.pdf  ).
+Here you can view the [complete puzzle](https://github.com/kodayv/kodayv.github.io/blob/master/images/Driodlogicpuzzle.pdf  ).
 
 
 
