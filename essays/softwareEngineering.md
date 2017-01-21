@@ -12,7 +12,7 @@ labels:
 
 <img class="ui medium left floated image" src="../images/Software_Engineer.jpg">
 
-Software Engineering is a rigorous course offered at the University of Hawaii’s Computer Science program. The multitude of skills that can be obtained by taking this course makes it vital for anyone wanting to gain proficiency in the areas of programming. Below are a skills that are of personal interest to me..jpg
+Software Engineering is a rigorous course offered at the University of Hawaii’s Computer Science program. The multitude of skills that can be obtained by taking this course makes it vital for anyone wanting to gain proficiency in the areas of programming. Below are a skills that are of personal interest to me.
 
 ## Software Engineering Concepts
 Becoming skilled at creating a program takes lots of practice. This course promises to develop proficiency in the design, implementation, and testing of a code. Project management, quality assurance, and the different coding environments are also important skills I am looking forward to having developed.
@@ -21,6 +21,8 @@ Becoming skilled at creating a program takes lots of practice. This course promi
 
 ## Athletic Software Engineering
 Being able to plan and implement swiftly and accurately under pressure is a very important skill in life, regardless of field of study. This course drills its students on coding quickly and accurately under pressure with timed exercises. It is my goal that this will sharpen my wit, as well as my coding ability.
+
+
 
 <img class="ui medium left floated image" src="../images/tatjana.jpg">
 
