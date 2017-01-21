@@ -12,7 +12,7 @@ labels:
 summary: Lead a team to develop a game using Java on the Eclipse program.
 ---
 
-  <img class="ui medium left floated image"src="../images/starwars.png">
+  <img class="ui medium left floated image" src="../images/starwars.png">
 
 
 The BB-8 Game was developed to show mastery over the Java language. The game has the player control the Star Wars robot bb-8 as it dodges shooting lazers in its mission to reach Rey.
@@ -23,7 +23,7 @@ I also compiled everyone's work into one functional program. To do this I had to
 
 It was enjoyable to work in a team, to create something together that required communication, collaboration, and teamwork. The resulting project became something in which we were all very proud of.
 
-<img class="ui medium right floated image"src="../images/bb8.png">
+<img class="ui medium right floated image" src="../images/bb8.png">
 
 Here you can watch a recorded [video of the game](https://www.youtube.com/watch?v=8-63qS-Nhg4&feature=youtu.be).
 
