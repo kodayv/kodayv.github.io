@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/bb8 (2).png
+image: images/starwars.png
 title: Droid Logic Puzzle
-permalink: projects/bb8
+permalink: projects/crypto
 date: 2016
 labels:
   - Cryptography
