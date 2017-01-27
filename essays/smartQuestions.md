@@ -32,6 +32,7 @@ First is an example of a smart question. The question title was called “Do a �
 
 
 The questioner asks the question with a goal posted, is concise, and lists what the questioner already knows. The question was very short although some code was included in it.
+
 All the responses to the question were direct suggestions on how to export ‘git’ without a repository. They were 29 direct answers, and many discussions on those answers. Everyone was polite and professional, and contributed a lot to the topic.
 
 <a href="http://stackoverflow.com/questions/160608/do-a-git-export-like-svn-export/163769#163769"><i class=""></i>View the StackOverflow question</a>
