@@ -8,7 +8,7 @@ labels:
   - StackOverflow 
 ---
 
-<img class="ui small left floating image" src="../images/questions.jpg">
+<img class="ui medium right floated image" src="../images/questions.jpg">
 
 ## Why smart questions are important for smart software engineers
 
