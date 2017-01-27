@@ -66,7 +66,7 @@ There were only 2 responses to the question. The first one who responded to this
 
 ## Question smartly you should
 
-The purpose of these examples is to show you what a good and bad question can look like.   The online forums of software engineers are full of people who would love to share their knowledge with you. Think carefully on the question before sending it out, and write it out with as much detail as possible. 
+The purpose of these examples is to show you what a good and bad question can look like.   The online forums of software engineers are full of people who would love to share their knowledge with you. However, before posting the question, look for the answer. There is a chance that someone else had a similiar problem which had already been addresed. Do research on the topic; check the manuals and the methods surrounding what you are having a problem with. When you write the question think carefully on the question before sending it out, and write it out with as much detail as possible dictating the research you already did into the problem. That way people will see what you have done, what is not working, and be better able to reply.
 
 
 To learn more on asking smart questions, visit this awesome site by <a href="http://www.catb.org/esr/faqs/smart-questions.html"><i class=" "></i>Raymond and Moen</a>
