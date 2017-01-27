@@ -20,15 +20,15 @@ First is an example of a smart question. The question title was called “Do a �
 
 <img class="ui medium left circular floated image" src="../images/Stack_Overflow_logo.svg.png">
 
-*I've been wondering whether there is a good "git export" solution that creates a copy of a tree without the .git repository directory. There are at least three methods I know of:*
+  *I've been wondering whether there is a good "git export" solution that creates a copy of a tree without the .git repository directory. There are at least three methods I know of:*
 
-*1.	git clone followed by removing the .git repository directory.*
+  *1.	git clone followed by removing the .git repository directory.*
 
-*2.	git checkout-index alludes to this functionality but starts with "Just read the desired tree into the index..." which I'm not entirely sure how to do.*
+  *2.	git checkout-index alludes to this functionality but starts with "Just read the desired tree into the index..." which I'm not entirely sure how to do.*
 
-*3.	git-export is a third party script that essentially does a git clone into a temporary location followed by rsync --exclude='.git' into the final destination.*
+  *3.	git-export is a third party script that essentially does a git clone into a temporary location followed by rsync --exclude='.git' into the final destination.*
 
-*None of these solutions really strike me as being satisfactory. The closest one to svn export might be option 1, because both those require the target directory to be empty first. But option 2 seems even better, assuming I can figure out what it means to read a tree into the index.*
+  *None of these solutions really strike me as being satisfactory. The closest one to svn export might be option 1, because both those require the target directory to be empty first. But option 2 seems even better, assuming I can figure out what it means to read a tree into the index.*
 
 
 The questioner asks the question with a goal posted, is concise, and lists what the questioner already knows. The question was very short although some code was included in it.
@@ -42,17 +42,17 @@ Now is an example of a question that did not fulfill the precepts for being a sm
 
 <img class="ui medium right floated image" src="../images/laptop.jpg">
 
-*suppose you have:*
+  *suppose you have:*
 
-class F:
+  class F:
 
-    pass
+     pass
     
-*then you make an instance:*
+  *then you make an instance:*
 
-g=F()
+  g=F()
 
-*how can i check if the instance g is derived from the main class F?*
+  *how can i check if the instance g is derived from the main class F?*
 
 The first precept that was violated was the proper use of grammar. The lack of capitalizing on the first letter in the question and on the ‘I’ gives me the impression that the questioner is not to be taken seriously. The question itself was not very informative. Three lines of code were written, and by reading it, it appears to answer itself, so the reader does not understand what the questioner is trying to get at. If there was a clear goal put out, then the readers may have been more able to give a concise answer.
 
