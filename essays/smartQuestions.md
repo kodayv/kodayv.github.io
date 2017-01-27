@@ -8,17 +8,17 @@ labels:
   - StackOverflow 
 ---
 
-<img class="ui medium right floated image" src="../images/questions.jpg">
+
 
 ## Why smart questions are important for smart software engineers
 
-The online world of software engineer’s forums is a place of shared knowledge for those who seek to tread through its many pages. When directing a question to the forum it is important to understand the audience that will be reading and answering your questions. These people are not your besties, nor can they read your mind. The questions asked need to be precise, directed, and with a demonstrated knowledge of what you are doing. 
+<img class="ui medium right floated image" src="../images/questions.jpg">
+
+The online world of software engineer’s forums is a place of shared knowledge for those who seek to tread through its many pages. When directing a question to the forum like Stack Overflow it is important to understand the audience that will be reading and answering your questions. These people are not your besties, nor can they read your mind. The questions asked need to be precise, directed, and with a demonstrated knowledge of what you are doing. 
 
 ## Smart question = Smart answer
 
 First is an example of a smart question. The question title was called “Do a “git export” (like “svn export”)” with the tags ‘git’, ‘export’,  ‘git-archive’, and ‘svn-export’. Already the reader has a pretty good idea of what the questioner wants. If the reader understood ‘git’ and ‘svn’, they would think “I can probably help this person”. Below is the full question:
-
-<img class="ui medium left circular floated image" src="../images/Stack_Overflow_logo.svg.png">
 
   *I've been wondering whether there is a good "git export" solution that creates a copy of a tree without the .git repository directory. There are at least three methods I know of:*
 
@@ -35,6 +35,7 @@ The questioner asks the question with a goal posted, is concise, and lists what 
 
 All the responses to the question were direct suggestions on how to export ‘git’ without a repository. They were 29 direct answers, and many discussions on those answers. Everyone was polite and professional, and contributed a lot to the topic.
 
+<img class="ui tiny circular left floated image" src="../images/Stack_Overflow_logo.svg.png">
 <a href="http://stackoverflow.com/questions/160608/do-a-git-export-like-svn-export/163769#163769"><i class=""></i>View the StackOverflow question</a>
 
 ## Stupid question = Stupid answer
@@ -58,7 +59,8 @@ The first precept that was violated was the proper use of grammar. The lack of c
 
 There were only 2 responses to the question. The first one who responded to this question made remarks like “Your question is confusing”, and contained questions to clarify what is being asked. Another reply gave an answer which to me did not seem like it was what the questioner was looking for. The question itself got marked as a Duplicate, meaning that if the author conducted a reasonable search, Stack Overflow would have come up with an answer directly pertaining to the question.
 
-<a href="http://stackoverflow.com/questions/36042983/how-can-i-check-if-a-given-instance-of-a-class-belongs-to-a-main-class-in-python?noredirect=1&lq=1"><i class=""></i>View the StackOverflow question</a>
+<img class="ui tiny circular left floated image" src="../images/Stack_Overflow_logo.svg.png">
+<a href="http://stackoverflow.com/questions/36042983/how-can-i-check-if-a-given-instance-of-a-class-belongs-to-a-main-class-in-python?noredirect=1&lq=1"><i class=""></i>View the StackOverflow question</a> 
 
 <img class="ui tiny circular left floated image" src="../images/yoda.jpg">
 
