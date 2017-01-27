@@ -20,13 +20,13 @@ The online world of software engineer’s forums is a place of shared knowledge 
 
 First is an example of a smart question. The question title was called “Do a “git export” (like “svn export”)” with the tags ‘git’, ‘export’,  ‘git-archive’, and ‘svn-export’. Already the reader has a pretty good idea of what the questioner wants. If the reader understood ‘git’ and ‘svn’, they would think “I can probably help this person”. Below is the full question:
 
-  *I've been wondering whether there is a good "git export" solution that creates a copy of a tree without the .git repository directory. There are at least three methods I know of:*
+  *I've been wondering whether there is a good "git export" solution that creates a copy of a tree without the* .git *repository directory. There are at least three methods I know of:*
 
-  *1.	git clone followed by removing the .git repository directory.*
+  *1.	git clone followed by removing the* .git *repository directory.*
 
-  *2.	git checkout-index alludes to this functionality but starts with "Just read the desired tree into the index..." which I'm not entirely sure how to do.*
+  *2.	*git checkout-index *alludes to this functionality but starts with "Just read the desired tree into the index..." which I'm not entirely sure how to do.*
 
-  *3.	git-export is a third party script that essentially does a git clone into a temporary location followed by rsync --exclude='.git' into the final destination.*
+  *3.	*git-export *is a third party script that essentially does a git clone into a temporary location followed by* rsync --exclude='.git' *into the final destination.*
 
   *None of these solutions really strike me as being satisfactory. The closest one to svn export might be option 1, because both those require the target directory to be empty first. But option 2 seems even better, assuming I can figure out what it means to read a tree into the index.*
 
