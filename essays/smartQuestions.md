@@ -47,7 +47,7 @@ class F:
 
     pass
     
-*then you make an instance:
+*then you make an instance:*
 
 g=F()
 
