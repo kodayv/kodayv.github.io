@@ -6,7 +6,7 @@ date: 2017-02-09
 labels:
   - Coding Standards
   - Software Engineering Techniques 
-  -IntelliJ
+  - IntelliJ
 ---
 
 
