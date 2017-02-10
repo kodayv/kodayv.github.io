@@ -15,7 +15,7 @@ labels:
 <img class="ui medium right floated image" src="../images/questions.jpg">
 Being able to comprehend coding grammar makes it easier to learn other programing languages. For instance, the indentation of items in a scope is pretty universal regardless of programming language. A student of a new coding language can read a code, and understand that an area is in a scope, and with that better be able to learn the code with its basic grammar structure understanding.  While writing code is the best way to learn code, knowing the grammar of code is like knowing the grammar of a spoken language; once the structure is known, the learner can easily to grasp what a code is doing even if there is little knowledge of the vocabulary.
 
- ## To understand, easier it is when proper grammar is used
+## To understand, easier it is when proper grammar is used
  
 <img class="ui tiny circular left floated image" src="../images/yoda.jpg">
 
