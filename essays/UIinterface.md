@@ -24,12 +24,12 @@ When I first started learning how to develop a website, I went to the basics. Th
 The next level of my web development journey took me to use a CSS framework, called [W3](https://www.w3schools.com/w3css/default.asp). This framework allowed me to make aesthetically pleasing pages [like this one](http://www2.hawaii.edu/~kodayv/ics311f16/). With an already established CSS, making nice webpages was easier and faster, after the initial commitment to learn the directory. This framework was also free for public use, so there is no monetary commitment. 
 
 <br><BR><BR><BR>
-
+## UI Frameworks
 <img class="ui medium right floated image" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReNAQPdKvi97R1fQy4_MBAiF5siJQOIq3t5DxOlDfjYgwo5NBk">
 
 
 
-## UI Frameworks
+
 
 The last level of web development took me to a UI Framework. [Semantic UI](http://semantic-ui.com/) was the framework I used in this experience. I was fortunate to have the ability to use the framework under the University’s Student subscription, allowing me to bypass the cost of the program.  This framework was also complicated to get started with. A lot of time was devoted to understanding how the framework could be applied to a website. However, once the educational commitment was completed, the framework enabled me to develop a professional webpage [like this one](http://www2.hawaii.edu/~kodayv/ics311f16/snow.html) in a fairly reasonable amount of time. 
 
