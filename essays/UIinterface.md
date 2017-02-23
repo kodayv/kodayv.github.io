@@ -16,7 +16,7 @@ labels:
 
 When I first started learning how to develop a website, I went to the basics. The [resulting page](http://kodayv.ics415.com/campus/introduction.php) was basic and honestly boring, as you can see. Being functional only as a page with information, it fails at maintaining the interest of the viewer. In today’s world of technology, part of the function of a webpage is that it is pleasing to the eye to behold, and strikes interest in the viewer. HTML and CSS by itself is difficult to achieve that level of attraction.
 
-<img class="ui medium left floated image" src="../images/css.png">
+<img class="ui small left floated image" src="../images/css.png">
 
 
 ## CSS Frameworks
