@@ -29,7 +29,7 @@ The next level of my web development journey took me to use a CSS framework, cal
 
 The last level of web development took me to a UI Framework. [Semantic UI](http://semantic-ui.com/) was the framework I used in this experience. I was fortunate to have the ability to use the framework under the University’s Student subscription, allowing me to bypass the cost of the program.  This framework was also complicated to get started with. A lot of time was devoted to understanding how the framework could be applied to a website. However, once the educational commitment was completed, the framework enabled me to develop a professional webpage [like this one](http://www2.hawaii.edu/~kodayv/ics311f16/snow.html) in a fairly reasonable amount of time. 
 
-<img class="ui medium left floated image" src="https://static.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg">
+<img class="ui medium left floated image" src="https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb">
 
 ## Which is Better?
 
