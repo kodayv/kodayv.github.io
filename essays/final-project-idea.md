@@ -15,9 +15,9 @@ There are many events happening at UH Manoa. There are signs out all over the pl
 The creation of a web application that will apply student selected subscriptions to their UH Gmail Calendar will allow students to select what interests they wish to follow as well as give them reminders of upcoming deadlines.
 
 ## Mockup Page Ideas
-•	Public Landing page
-•	Login page
-•	User home page
+-	Public Landing page
+-	Login page
+-	User home page
 •	Admin home page
 •	User Subscriptions
 •	Browse UH evens by category 
