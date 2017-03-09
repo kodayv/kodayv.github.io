@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
- ## The problem
+ ##  The problem
 There are many events happening at UH Manoa. There are signs out all over the place, and webpages that show club meetings, registration deadlines, and scholarship due dates. The problem is that the way the information is disseminated does not allow a satisfactory amount of students to be well informed. Busy students and do not notice the signs and billboard posts, or do not walk in the areas in which they are posted. Emails and online postings may get overlooked or forgotten as homework piles up. Websites that have dates of events are not all known to the entire student body, as there is no one location for all these events in which a student can go to.
 
 ## The Solution
