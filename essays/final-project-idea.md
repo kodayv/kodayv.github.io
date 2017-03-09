@@ -18,18 +18,18 @@ The creation of a web application that will apply student selected subscriptions
 -	Public Landing page
 -	Login page
 -	User home page
-•	Admin home page
-•	User Subscriptions
-•	Browse UH evens by category 
+-	Admin home page
+-	User Subscriptions
+-	Browse UH evens by category 
 
 ## Use Case Ideas 
-•	New user goes to landing page, logs in, gets home page, browses subscriptions, subscribes to selected events
-•	Admin goes to landing page, logs in, gets home page, edits site.
-•	User goes to landing page, logs in, adds subscriptions, edits subscriptions
+-	New user goes to landing page, logs in, gets home page, browses subscriptions, subscribes to selected events
+-	Admin goes to landing page, logs in, gets home page, edits site.
+-	User goes to landing page, logs in, adds subscriptions, edits subscriptions
 
 ## Beyond the Basics
-•	Syncs up with Google Calendar
-•	Laulima also syncs up to the program, so that assignment due dates are added to calender
+-	Syncs up with Google Calendar
+-	Laulima also syncs up to the program, so that assignment due dates are added to calender
 
 
 
