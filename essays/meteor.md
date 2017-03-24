@@ -8,7 +8,7 @@ labels:
   - CRUD applications
 ---
 
-<img class="ui medium left floated image" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiU1LSV8O3SAhVY-2MKHSsCC5cQjRwIBw&url=http%3A%2F%2Fearthsky.org%2Fastronomy-essentials%2Fearthskys-meteor-shower-guide&psig=AFQjCNFaywsu-qBNTKJQJmK74xd-hTf31w&ust=1490401436644238">
+<img class="ui medium left floated image" src="http://en.es-static.us/upl/2012/12/meteor_Geminid_12-12-2012_Mike_O_Neal_Oklahoma-e1355400539555.jpeg">
 
 ## Meteor Showers
 My introduction to Meteor was a lot like going to see a meteor shower: someone pitches the idea to you that there is this ‘thing’ shiny and awesome that everyone should do. Hesitantly you accept this idea ‘ok let’s give it a try’. Download…like the trip out from the city to see the meteor shower; long and dark, where you stare at the screen asking yourself ‘are we there yet?’
