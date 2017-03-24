@@ -17,11 +17,11 @@ Once it is downloaded you got to get a comfortable spot where you can stare at y
 
  As the complexity of the code drives many errors, the darkness on the screen starts filling up your soul. ‘Why am I doing this? Of all the other things I could be spending my time doing, I am starting at this dark screen in the middle of the night waiting for a tiny streak of light.’ Hopelessness starts creeping; and the thoughts of calling it quits 2 hours ago is now screaming at you. Then, something happens. A tiny streak of light. Was it imagined? Had my mind lost itself and has created phantoms now to taunt my tainted soul? Another one! 
  
- <img class="ui medium right floated image" src="https://images.vice.com/motherboard/content-images/article/no-id/1454125087074284.jpg">
+ <img class="ui small right floated image" src="http://vignette1.wikia.nocookie.net/darksouls/images/2/20/Dark_Soul.jpg/revision/latest?cb=20130801001027">
 
 The dark hollow within you starts filling up with these tiny sparks of success. Maybe I should record the meteor shower, to show others? No amount of video recordings can give the appropriate amount of awe given to those who went out to use the code. So the next day when you tell your friends about your awesome experience, you simply say ‘you got to just try it out yourself’.
 
-<img class="ui medium left floated image" src="http://vignette1.wikia.nocookie.net/darksouls/images/2/20/Dark_Soul.jpg/revision/latest?cb=20130801001027">
+<img class="ui medium left floated image" src="https://images.vice.com/motherboard/content-images/article/no-id/1454125087074284.jpg">
 
 The real question is, how objectively awesome is meteor? Psychologically speaking, the harder something is to achieve, the more personal satisfaction is gained when that thing is obtained. Also, the mind is quick to dismiss events that are tedious and unpleasant so the memory of an event that is objectively horrible but had one good part in it will eventually be remembered on the emotions and event surrounding that good part.
 
