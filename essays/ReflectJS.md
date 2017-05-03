@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflection on JavaScript
+title: Athletic Engineering with JavaScript
 date: 2017-01-20
 labels:
   - JavaScript
