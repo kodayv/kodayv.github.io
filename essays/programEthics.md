@@ -2,11 +2,10 @@
 layout: essay
 type: essay
 title: Athletic Engineering with JavaScript
-date: 2017-01-20
+date: 2017-05-02
 labels:
-  - JavaScript
-  - Education
-  - Athletic Software Engineering
+  - Ethics
+  - Automation
 ---
 
 ## Ethics in software engineering
@@ -27,12 +26,11 @@ A video compilation shows these accidents being identified at the same rate an a
 
 ## The hard decision
 
-With this and other situations, what should a programmer do? No one wants to be on the dead end of the choice, and yet a choice must be made. If this was my decision, upholding the code, with the protection of the most people a priority would be how I would program the vehicle. The car will crash itself, and the jet-like injection seat will activate; shooting the driver out of the vehicle so that the driver’s life may also be spared. Seriously, thinking outside of the box is necessary in these decisions. Although ejection seats from a car does not work, if there is a way to use advancements in technology to also save the lives of those in the vehicle in case it has to self-destruct, then that too should be implemented. However, until such a time in which vehicles can be completely safe, the greatest good mentality should still apply, and the vehicle’s self-destruct feature, the ‘Hero Code’ be an understood risk of driving any vehicle. While people will be repulsed by this idea, the amount of times in which this feature will be used should be extremely small, and the use of driverless vehicles will still continue to increase.
+With this and other situations, what should a programmer do? No one wants to be on the dead end of the choice, and yet a choice must be made. If this was my decision, upholding the code, with the protection of the most people a priority would be how I would program the vehicle. The car will crash itself, and the jet-like injection seat will activate; shooting the driver out of the vehicle so that the driver’s life may also be spared. 
 
-<img class="ui medium right floated image" src="https://i.ytimg.com/vi/SPOFPj8iou8/hqdefault.jpg">
-
+<img class="ui small circular left floated image" src="https://i.ytimg.com/vi/SPOFPj8iou8/hqdefault.jpg">
+Seriously, thinking outside of the box is necessary in these decisions. Although ejection seats from a car does not work, if there is a way to use advancements in technology to also save the lives of those in the vehicle in case it has to self-destruct, then that too should be implemented. However, until such a time in which vehicles can be completely safe, the greatest good mentality should still apply, and the vehicle’s self-destruct feature, the ‘Hero Code’ be an understood risk of driving any vehicle. While people will be repulsed by this idea, the amount of times in which this feature will be used should be extremely small, and the use of driverless vehicles will still continue to increase.
 <hr>
 
 More about <a href="https://www.theguardian.com/technology/2015/sep/13/self-driving-cars-bmw-google-2020-driving">self-driving technology</a>
 
-</hr>
