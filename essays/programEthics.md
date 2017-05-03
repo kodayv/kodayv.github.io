@@ -23,6 +23,9 @@ A video compilation shows these accidents being identified at the same rate an a
 
 <img class="ui medium right floated image" src="https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F8a608924ef869de2eefc70a875e36ccb%2F205096662%2Fuber-self-driving-crash-fresco-news-ed.jpg&client=cbc79c14efcebee57402&signature=2bf6754b3a0e51cf48153f743bc143aa20cc4bd0">
 
+## The dillema
+
+However, times will arise in which avoiding an accident cannot occur, and programmer will have to create an algorithm deciding what course of action to take. As a hypothetical example, the Massachusetts Institute of Technology presents a scenario in which a vehicle cannot stop in time to prevent driving into a crowd of people. What algorithm should the developer use to deal with such a situation? If we take the ACM code of ethics, the charge of creating the greatest good will mean that the car should crash itself; killing the driver and saving all the people. However, a car that can kill its driver is not a marketable feature, and will not promote the use of these vehicles which saves more lives than driver those without. 
 
 ## The hard decision
 
