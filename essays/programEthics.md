@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Athletic
-date: 2017-01-20
+title: To crash or not to crash- the driverless car delimma
+date: 2017-05-2
 labels:
-  - JavaScript
-  - Education
-  - Athletic Software Engineering
+  - ethics
+  - automation
 ---
 <img class="ui medium right floated image" src="../images/js.jpg">
 
