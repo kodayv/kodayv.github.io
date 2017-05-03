@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: To crash or not to crash
-date: 2017-05-2
+title: Athletic Engineering with JavaScript
+date: 2017-01-20
 labels:
-  - ethics
-  - automation
+  - JavaScript
+  - Education
+  - Athletic Software Engineering
 ---
 
 ## Ethics in software engineering
