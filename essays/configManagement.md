@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Configuration Management
+title: Organizing Group Projects
 date: 2017-01-31
 labels:
   - GitHub Desktop
