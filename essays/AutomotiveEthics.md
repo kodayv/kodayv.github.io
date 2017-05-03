@@ -32,4 +32,4 @@ With this and other situations, what should a programmer do? No one wants to be 
 
 <hr>
 
-More about <a href="https://www.theguardian.com/technology/2015/sep/13/self-driving-cars-bmw-google-2020-driving"><i class="large github icon "></i>self-driving technology.</a>
+More about <a href="https://www.theguardian.com/technology/2015/sep/13/self-driving-cars-bmw-google-2020-driving">self-driving technology</a>
