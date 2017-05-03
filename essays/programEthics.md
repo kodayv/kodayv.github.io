@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Athletic Engineering with JavaScript
+title: To Crash or not to Crash- the Driverless Car Dilemma
 date: 2017-05-02
 labels:
   - Ethics
