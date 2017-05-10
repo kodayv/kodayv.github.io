@@ -39,9 +39,7 @@ Analysis and Conclusion
 
 <hr><hr>
 
-
- 
-Works Cited
+## Works Cited
 FBI (2017) Evgeniy Mikhailovich Bogachev. Retrieved from 
 	https://www.fbi.gov/wanted/cyber/evgeniy-mikhailovich-bogachev
 Galeotti, Mark (May 2016). PUTIN’S HYDRA: INSIDE RUSSIA’S INTELLIGENCE 
