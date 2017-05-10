@@ -11,6 +11,8 @@ labels:
   - IntelliJ
   - GitHub
 summary: Group project to create a website for the coordination of tabletop games 
+---
+
 ## Project Overview
 This project involved the engineering of a webpage that will bring the University of Hawaii community together to the activities of tabletop gaming. The project provided user security by only allowing those with a UH account access to the user pages. These pages included the browsing and selecting of scheduled games, the coordination of games, and the management of games.
 <img width="200px" src” https://cloud.githubusercontent.com/assets/17040099/25887785/2ff2b998-34ff-11e7-98b2-3ee4caf42a73.png”>
