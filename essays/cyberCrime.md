@@ -8,7 +8,7 @@ labels:
   - Cyber-Crime
 ---
 
-<img class="ui medium center image" src="https://cdn.pixabay.com/photo/2015/10/29/18/30/cyber-crime-1012751_960_720.jpg">
+<img class="ui medium centered stretch image" src="https://cdn.pixabay.com/photo/2015/10/29/18/30/cyber-crime-1012751_960_720.jpg">
 
 In today’s world of technology almost every activity is now conducted or monitored online. Individuals commit transactions, share documents, and communicate across continents seemingly instantaneously. As there are personal and confidential information available online, there are those who are willing to illegally obtain that information. While cyber-crimes are committed from all parts of the world, the focus on his report will be the cyber-criminal activities occurring in Russia. This paper will analyze the types of cyber-crimes traced to Russians, the organization of the criminals, and its growth market. 
 
@@ -23,17 +23,17 @@ Cyber extortion is one of the most popular types of crime, due to the fee demand
 
 According to JD Sherry, the vice president of Trend Micro Crime’s division of technology and solutions, Russia has access to “some of the most technologically advanced tools” in the field of cyber-crime (Rayman 2014). Beyond the theft of money, some of these malicious programs target the military. Due to the nature of the parties interested in military intelligence, these types of crimes are either funded by or orchestrated from a government institution. Cybersecurity firm CrowdStrike identified Android specific malware that had been installed on Ukrainian military devices. This malware was designed to allow remote access to the infected devices, and was linked to the software originating from the Russian region by its malware being a variant of X-Agent; a type of virus believed to have been created in Russia (Heller 2016). CrowdStrike was the investigating firm for Democratic National Committee (DNC) when it was hacked in 2016 by a code using a tool set called ‘Dukes’, in which evidence in the investigation of this malware set suggest that is also had been developed in Russia (Lipton 2016). 
 
-<img class="ui medium right floated image" src="https://c1.staticflickr.com/9/8116/29723649810_8cb4a06489_b.jpg">
 
 ## The Russian Cyber-crime Industry 
 
 In 2015 Interpol estimated that there were 20,000 residents in Russia who engaged in cyber-crime; primarily involving bank fraud, extortion, and email scams (Gertz 2015). Innovative in improving marketing techniques, some cyber criminals create their own websites. Russian and Ukrainian hackers created a website in 2001 called CarderPlanet. This website featured an e-Bay like market system for the purchase and sale of credit card numbers, complete with reviews, a message board, and paid advertising (Poulsen 2016). 
+<img class="ui medium right floated image" src="https://c1.staticflickr.com/9/8116/29723649810_8cb4a06489_b.jpg">
 
 Aside from credit card theft, a hacker can be commissioned to compromise a business network system with a cost range between $100 and $300 (Gertz 2015). Hackers also advertise to commit character assassination to an individual or business. The cost of flagging an individual as a child porn user, which will lead to their arrest and discredit their name, is $600 (Higgins 2016). When a hacker manages to successfully compromise a bank, their code becomes the most marketable item they have. Rather than take some money from the hacked bank and disappear, the code gets programmed into software that will automatically commit the hijack, and the hacker will sell that for around $3000 a copy (Poulsen 2016). In turn, those purchasers hire others to spam the software and money launderers. Sometimes, instead of having these hackers perform a solo project, then try to find a buyer, hackers will collaborate to complete the entire system. When the hackers form these criminal groups, everyone gets assigned specialized roles. These can include “creating malware, cracking into networks, handling security credentials, and laundering the proceeds of the crimes” (Gertz, 2015).
 
 While compromising bank security systems and acquiring credit card data are normally privately vested activities, there are cyber-crimes that are of greater interest to government agencies. Targeted character assassinations are seemingly popular within opposing Russian political parties (Higgins 2016). Hackers also target military, political, and other government systems. On March 15, 2017 the United States Justice Department charged 2 members of the ‘Federal'naya sluzhba bezopasnosti Rossiyskoi Federatsii’ (Federal Security Service of the Russian Federation)(FSB), and 2 Russian civilians of the hacking into over 500 million Yahoo accounts in 2014 (Nakashima 2017). The European Council on Foreign Relations has stated their suspicions that the FSB is responsible for many cyber-crimes against other government agencies. While the location of the attacks coming from the country of Russia is certain, it is currently unknown whether these attacks are managed by the government or commissioned to a third party hacker group. Also, due to the anonymity in which these attacks are generally carried out, obtaining proof of the source of these cyber-crimes has been extremely difficult (Galeotti 2016).
 
-<img class="ui medium right floated image" src="https://cdn.pixabay.com/photo/2017/02/18/12/36/hacker-2077138_960_720.jpg">
+<img class="ui medium left floated image" src="https://cdn.pixabay.com/photo/2017/02/18/12/36/hacker-2077138_960_720.jpg">
  
 ## The Growth of Russian Cyber-crime 
 	
