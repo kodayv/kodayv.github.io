@@ -15,7 +15,7 @@ summary: Group project to create a website for the coordination of tabletop game
 
 ## Project Overview
 This project involved the engineering of a webpage that will bring the University of Hawaii community together to the activities of tabletop gaming. The project provided user security by only allowing those with a UH account access to the user pages. These pages included the browsing and selecting of scheduled games, the coordination of games, and the management of games.
-<img class="ui medium left floated image" src="https://cloud.githubusercontent.com/assets/17040099/24215014/7f8513f6-0edb-11e7-9885-ae784b995aca.png">
+<img class="ui medium left image" src="https://cloud.githubusercontent.com/assets/17040099/24215014/7f8513f6-0edb-11e7-9885-ae784b995aca.png">
 <img class="ui medium left floated image" src="https://cloud.githubusercontent.com/assets/17040099/25885369/b5a56b64-34f3-11e7-814b-779a9f80d5e5.png">
 
 ## Personal Contributions
