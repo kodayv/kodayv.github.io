@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/header.png
+image: images/head.png
 pngtitle: TableTop Manoa WebPage
 permalink: projects/Tabletop
 date: 2017
