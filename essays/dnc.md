@@ -10,12 +10,10 @@ labels:
   - CozyBear
 ---
 
-<img class="ui medium right floated image" src="https://cdn.pixabay.com/photo/2016/11/27/08/24/internet-1862313_960_720.jpg">
-
 In April 2016 the Democratic National Committee (DNC) contacted American cybersecurity company CrowdStrike to investigate a suspected breach within their network (CrowdStrike 2016). The security company discovered two separate cyber attackers; ‘CozyBear and ‘FancyBear’. Both of these attackers have since been identified as part of separate Advanced Persistent Threats (APT), and perceived as “Russian state-sponsored actors” (Bencha 2016). This essay will explain the evidence collected on these attacks which identified them to their respective APTs, and links which connect the APTs to a government sponsored organization within Russia. 
 
 ## FANCY BEAR
-<img class="ui medium left floated image" src="https://www.crowdstrike.com/blog/wp-content/uploads/2016/09/FancyBearBlog.jpg">
+<img class="ui medium left circular floated image" src="https://www.crowdstrike.com/blog/wp-content/uploads/2016/09/FancyBearBlog.jpg">
 ### Overview of the Attack
 
 FancyBear operated by handpicking targets within the DNC, acquired IP addresses to scan and prioritize, and then attacked by sending scam emails directed to a fake website that downloaded a file dropper while the victim was observing the webpage (Bencha 2016). Once the DNC network was exploited, stage one of the installation process began with a file executing X-Agent; a toolset with the capability to commit remote commands, transmit files to another server, key-log, and connect the network to the attackers’ command and control center (C&C) (CrowdStrike 2016).
@@ -33,7 +31,7 @@ FancyBear’s use of the X-Agent and X-Tunnel tools links this attack with a gro
  With the evidence gathered suggesting Russia, more new information came in from an external entity. Further investigation revealed that the C&C server’s domain for this particular attack was registered to Frank Merdeux residing in France (ThreatConnect 2016). In July 2016, following the release of CrowdStrike’s report, a blog by ‘Guccier2.0’ made the declaration that he, a Romanian anti-government hacker, independently conducted the FancyBear attack (Collier 2016). An analysis of his Twitter posts and America Online email correspondence to journalists easily revealed a geolocation reference to France; which is suspicious due to the anonymous nature of elite hackers. Although Goccier2.0 claimed to not speak Russian, the Virtual Private Network (VPN) used by him to communicate with journalists was a site completely written in Russian called Elite VPN (ThreatConnect 2016). When the hacker spoke to journalists in Romanian, his grammar structure resembled that of an Eastern Slavic language instead of a native Romanian structure (Collier 2016).  To prove that he was the hacker, he posted some of the documents stolen from the DNC. Information on the documents history show that the last person to save the file was ‘Felix Dzerzhinsky’ (written in Russian Cyrillic) (Collier 2016). In light of this evidence it has been concluded by security company ThreatConnect that Guccier2.0 is a person or group of people from Russia who used France as a fronted location (ThreatConnect 2016). CrowdStrike stands by its initial conclusion that FancyBear is part of APT28.
  
 ## COZY BEAR	
-<img class="ui medium right floated image" src="https://www.crowdstrike.com/blog/wp-content/uploads/2016/09/cozy-bear.jpeg">
+<img class="ui medium right circular floated image" src="https://www.crowdstrike.com/blog/wp-content/uploads/2016/09/cozy-bear.jpeg">
 
 ### Overview of the attack
 
@@ -57,7 +55,7 @@ In order to track the attackers, all programs associated with APT29 were analyze
 
 The cybersecurity firms F-secure Labs, ThreatConnection, Bitdefender, and Symantec have all agreed with CrowdStrike’s conclusion that both CozyBear and FancyBear attacks came from APT groups believed to be working from Russia. Their tool sets are complex which demonstrates constant funding and security, their attacking campaigns long, and their services beneficial to government institutions. This evidence uncovered on the FancyBear and CozyBear attacks was sufficient enough for former President Obama to publicly apply sanctions to suspected individuals, diplomats, and associated companies in December 2016 (Perez & Diaz 2017).However, there is also the chance that given the advances in technology, the clues that were revealed may be purposefully misleading (Bencha 2016). APT groups have been constantly finding new means of stealth to include resetting the timestamps and removing their native language from the files, so finding evidence to the responsible party is becoming harder, while the number of attacks identified from APT groups have been increasing (Lehtio 2015b). 
 
-<img class="ui medium left floated image" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/APT28_APT29_Techniques_-_Spearphising.png">
+<img class="ui large centered image" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/APT28_APT29_Techniques_-_Spearphising.png">
 
 
 <hr><hr>
