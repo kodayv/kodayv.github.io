@@ -8,15 +8,15 @@ labels:
   - Cyber-Crime
 ---
 
-<img class="ui medium centered stretch image" src="https://cdn.pixabay.com/photo/2015/10/29/18/30/cyber-crime-1012751_960_720.jpg">
+<img class="ui medium centered stretch image" src="https://cdn.pixabay.com/photo/2016/11/27/08/25/internet-1862315_960_720.png">
 
 In today’s world of technology almost every activity is now conducted or monitored online. Individuals commit transactions, share documents, and communicate across continents seemingly instantaneously. As there are personal and confidential information available online, there are those who are willing to illegally obtain that information. While cyber-crimes are committed from all parts of the world, the focus on his report will be the cyber-criminal activities occurring in Russia. This paper will analyze the types of cyber-crimes traced to Russians, the organization of the criminals, and its growth market. 
 
-<img class="ui medium left floated image" src="https://cdn.pixabay.com/photo/2017/01/04/13/48/hacker-1952027_960_720.jpg">
 
 ## Types of Russian Cyber-crime Threats
 
 There are different types of activities that are classified as cyber-crimes in which hackers in Russia are known to engage in.  According to Paolo Satori, a Commissioner at Interpol in Romania, the activities seen in Russia include “email spam, child pornography, fraud and phishing, cyber extortion, disclosure of personal and confidential data, compromise of resources and web defacements, compromise network systems and websites, denial of service, and unlawful e-commerce and services” (Gertz 2015). There is also digital ‘kompromat’, a type of social assassination where illegal documents or false information gets pushed onto the victim’s computer or linked to the victim’s accounts, discrediting the victim, changing public opinion, and even leading to the victim being arrested (Higgins 2016). 
+<img class="ui medium left floated image" src="https://cdn.pixabay.com/photo/2017/01/04/13/48/hacker-1952027_960_720.jpg">
 
 Cyber extortion is one of the most popular types of crime, due to the fee demanded to restore the hijacked computer network is normally cheaper than having the problem repaired, and faster, with less risk of losing customers, so companies are generally willing to pay the ransom (Gertz 2015). The devices in which these malicious applications have been coded for include all forms of digital platforms, and Android operating systems have been found to have been primary targets for fraud in mobile banking. (Gertz 2015).
  Cyber-criminal activities cost approximately $400 billion across the world each year in financial losses and damages (Rayman 2014). Some of these crimes come from a few renowned hackers. Evgeniy Mikhailovich Bogachev, alias“lucky12345” and “slavik”, is wanted by the Federal Bureau of Investigation (FBI) for his software applications ‘Zeus’ and ‘GameOver Zeus’, that compromises bank account access data (FBI 2017). His programs have resulted in more than $100 million in financial loss. In 2014 hacker Vladimir Drickman plead guilty to the theft of over 160 million credit cards. His crime resulted in approximately $300 million stolen from individual and corporate accounts (Voreacos 2015). 
@@ -27,7 +27,7 @@ According to JD Sherry, the vice president of Trend Micro Crime’s division of 
 ## The Russian Cyber-crime Industry 
 
 In 2015 Interpol estimated that there were 20,000 residents in Russia who engaged in cyber-crime; primarily involving bank fraud, extortion, and email scams (Gertz 2015). Innovative in improving marketing techniques, some cyber criminals create their own websites. Russian and Ukrainian hackers created a website in 2001 called CarderPlanet. This website featured an e-Bay like market system for the purchase and sale of credit card numbers, complete with reviews, a message board, and paid advertising (Poulsen 2016). 
-<img class="ui medium right floated image" src="https://c1.staticflickr.com/9/8116/29723649810_8cb4a06489_b.jpg">
+<img class="ui medium right round floated image" src="https://c1.staticflickr.com/9/8116/29723649810_8cb4a06489_b.jpg">
 
 Aside from credit card theft, a hacker can be commissioned to compromise a business network system with a cost range between $100 and $300 (Gertz 2015). Hackers also advertise to commit character assassination to an individual or business. The cost of flagging an individual as a child porn user, which will lead to their arrest and discredit their name, is $600 (Higgins 2016). When a hacker manages to successfully compromise a bank, their code becomes the most marketable item they have. Rather than take some money from the hacked bank and disappear, the code gets programmed into software that will automatically commit the hijack, and the hacker will sell that for around $3000 a copy (Poulsen 2016). In turn, those purchasers hire others to spam the software and money launderers. Sometimes, instead of having these hackers perform a solo project, then try to find a buyer, hackers will collaborate to complete the entire system. When the hackers form these criminal groups, everyone gets assigned specialized roles. These can include “creating malware, cracking into networks, handling security credentials, and laundering the proceeds of the crimes” (Gertz, 2015).
 
