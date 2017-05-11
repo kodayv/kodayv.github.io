@@ -29,5 +29,5 @@ The many tasks required to complete the program was spread among the group. I pe
 ## Experience gained
 The completion of this project has taught me many things in the field of software engineering. I learned a lot by working in a group to take active part in all the designing, developing and testing of this project. Group coordination, time management, and communication were all used in this environment.  This project also gave me skills with the types of programs used. GitHub and Git were used for our code sharing and time management platforms. JavaScript, HTML, and CSS were all used on IntelliJ. Quality control was done with Eslint and the creation of Mocha and Chai tests. Meteor was the platform used to build the program, and the completed project was deployed via Galaxy.
 <hr>
-To read more on my project: <a href=" https://tabletopmanoa.github.io/)."><i class="large github icon "></i>Complete Report</a>
+To read more on my project: <a href=" https://tabletopmanoa.github.io/."><i class="large github icon "></i>Complete Report</a>
 
