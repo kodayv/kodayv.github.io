@@ -25,8 +25,28 @@ This project involved the engineering of a webpage that will bring the Universit
 These pages included the browsing and selecting of scheduled games, the coordination of games, and the management of games.
 
 
-
 <img class="ui large floated right circular image" src="https://cloud.githubusercontent.com/assets/17040099/25885369/b5a56b64-34f3-11e7-814b-779a9f80d5e5.png">
+### Landing Page
+Only public access to page. Has Login.
+
+### Home Page
+Welcomes users and provides instuctions
+
+### Browse Page
+View scheduled games by category. Choose to join game or viw more information.
+
+### Information Page
+Displays additional information about the game. Allows user to join game.
+
+### Calendar Page
+Displays all scheduled games on the calendar
+
+### Manage Page
+Allows user to manage games signed up to play, view games coordinating, and link to coordinate a new game
+
+### New Game Page
+A form in which the user gives out information pertaining to the game being scheduled
+
 
 ## Personal Contributions
 The many tasks required to complete the program was spread among the group. I personally contributed to this project with the creation of the initial design template, the calendar page, and the information page; which provides complete game information from a game selected in the browse page.
