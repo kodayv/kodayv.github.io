@@ -12,7 +12,7 @@ labels:
   - Git
   - GitHub
   - HTML 
-  - Javascript 
+  - JavaScript 
   - Semantic UI
   - MongoDB
   - Web Development
@@ -29,10 +29,10 @@ These pages included the browsing and selecting of scheduled games, the coordina
 Only public access to page. Has Login.
 
 ### Home Page
-Welcomes users and provides instuctions
+Welcomes users and provides instructions
 
 ### Browse Page
-View scheduled games by category. Choose to join game or viw more information.
+View scheduled games by category. Choose to join game or view more information.
 
 <img class="ui large floated right circular image" src="https://cloud.githubusercontent.com/assets/17040099/25885369/b5a56b64-34f3-11e7-814b-779a9f80d5e5.png">
 ### Information Page
