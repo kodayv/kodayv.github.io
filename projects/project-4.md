@@ -42,5 +42,6 @@ The completion of this project has taught me many things in the field of softwar
 Group coordination, time management, and communication were all used in this environment.  This project also gave me skills with the types of programs used. GitHub and Git were used for our code sharing and time management platforms. JavaScript, HTML, and CSS were all used on IntelliJ. Quality control was done with Eslint and the creation of Mocha and Chai tests. Meteor was the platform used to build the program, and the completed project was deployed via Galaxy.
 <hr>
 
-To read more on project: <a href=" https://tabletopmanoa.github.io/."><i class="large github icon "></i>Complete Report</a>
-This project was created in a group with [Kevin Kawamura](https://kevinkawa.github.io/) and [Jory Leech](https://joryleech.github.io/).
+To read more on project: <a href="https://kevinkawa.github.io/"><i class="large github icon "></i>Complete Report</a>
+
+This project was created in a group with <a href=" https://tabletopmanoa.github.io/."><i class="large github icon "></i>Kevin Kawamura</a> and <a href="https://joryleech.github.io/"><i class="large github icon "></i>Jory Leech</a>.
