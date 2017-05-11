@@ -10,9 +10,9 @@ labels:
   - Meteor
   - IntelliJ
   - GitHub
-summary: Group project to create a website for the coordination of tabletop games 
+summary: Group project that created a website for the coordination of tabletop games 
 ---
-<img class="ui medium floated left image" src="https://cloud.githubusercontent.com/assets/17040099/25926189/6886e5ce-3589-11e7-9250-2a2c3450eed8.png">
+<img class="ui large floated left image" src="https://cloud.githubusercontent.com/assets/17040099/25926225/ba27bc78-3589-11e7-8737-c0d590d90507.png">
 ## Project Overview
 This project involved the engineering of a webpage that will bring the University of Hawaii community together to the activities of tabletop gaming. The project provided user security by only allowing those with a UH account access to the user pages. These pages included the browsing and selecting of scheduled games, the coordination of games, and the management of games.
 
