@@ -16,8 +16,6 @@ labels:
   - Semantic UI
   - MongoDB
   - Web Development
-Read More
-
 summary: Group project that created a website for the coordination of tabletop games 
 ---
 <img class="ui large floated left image" src="https://cloud.githubusercontent.com/assets/17040099/25926225/ba27bc78-3589-11e7-8737-c0d590d90507.png">
