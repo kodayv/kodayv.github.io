@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "kodayv",
         "url": "http://linkedin.com/in/virginia-koday-684b7664"
-      },
-      {
-        "network": "twitter",
-        "username": "@Kodayv",
-        "url": "http://twitter.com/@Kodayv"
       }
     ]
   },
@@ -63,7 +58,7 @@
         "CSS",
         "Php",
         "Mocha",
-        "Chai"
+        "Chai",
         "Assembly"
       ]
     },
