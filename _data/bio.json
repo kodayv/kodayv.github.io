@@ -60,7 +60,10 @@
         "Html",
         "Java",
         "Javascript",
+        "CSS",
         "Php",
+        "Mocha",
+        "Chai"
         "Assembly"
       ]
     },
@@ -73,7 +76,10 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "Wordpress"
+        "Wordpress",
+        "Meteor",
+        "Eclipse",
+        "IntelliJ"
       ]
     }
   ],
@@ -169,6 +175,18 @@
     },
   ],
   "volunteer": [
+     {
+      "organization": "Russian Club",
+      "website": "https://www.facebook.com/groups/russian.uh.manoa/",
+      "position": "Active member",
+      "startDate": "2016-08-13",
+      "endDate": "currect",
+      "summary": "Participated in Russian activities",
+      "highlights": [
+        "Learned about various cultural practices of Russia",
+        "Assisted the promotion of the Russian Culture at various public events"
+      ]
+    },
     {
       "organization": "Gen-Cyber",
       "website": "https://www.gen-cyber.com/",
@@ -182,7 +200,19 @@
       ]
     },
   ],
-  "awards": [
+  "awards": [ 
+     {
+      "title": "Wiswell Scholarship",
+      "date": "May 2017",
+      "awarder": "University of Hawaii - Russian Department",
+      "summary": "Outstanding Academics in Russian Studies."
+    },
+    {
+      "title": "LLL Dean's Special Funds Initiative for Summer 2017",
+      "date": "May 2017",
+      "awarder": "University of Hawaii - Language and Literature Department",
+      "summary": "Outstanding Academics and Intent to Travel Abroad over the Summer."
+    },
     {
       "title": "Wiswell Scholarship",
       "date": "December 2016",
