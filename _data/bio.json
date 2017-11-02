@@ -51,36 +51,42 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Program Languages and Frameworks",
       "level": "",
       "keywords": [
         "Ajax",
+        "Assembly",
         "C",
-        "C++",
+        "Chai",
         "CLisp",
+        "CSS",
         "Html",
         "Java",
         "Javascript",
-        "CSS",
-        "Php",
         "Mocha",
-        "Chai",
-        "Assembly"
+        "Php"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Microsoft",
-        "Ionic",
-        "Ubuntu",
+        "Eclipse",
         "Git/GitHub",
         "g++",
-        "Wordpress",
+        "IntelliJ",
+        "Ionic",
         "Meteor",
-        "Eclipse",
-        "IntelliJ"
+        "Microsoft",
+        "Ubuntu",
+        "Wordpress"      
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "Russian"
       ]
     }
   ],
