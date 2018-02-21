@@ -24,4 +24,3 @@ To demonstrate the different types of coding mastery, the website gives the view
 
 The project taught me a lot about web programming, and the various ways that the same outcome can be obtained. I really enjoyed the coding of a program that resulted in a visual outcome, for me seeing the program operate correctly gave me great satisfaction.
  
-To visit my website: <a href="http://kodayv.ics415.com/"><i class=""></i>Campus Travel Website</a>
