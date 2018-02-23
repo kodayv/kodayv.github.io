@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Russian-American relations",
+      "name": "Programming",
       "keywords": [
       ]
     }
@@ -59,12 +59,14 @@
         "C",
         "Chai",
         "CLisp",
+        "cmd",
         "CSS",
         "Html",
         "Java",
         "Javascript",
         "Mocha",
-        "Php"
+        "Php",
+        "x86"
       ]
     },
     {
@@ -78,6 +80,7 @@
         "Ionic",
         "Meteor",
         "Microsoft",
+        "Oracle VM",
         "Ubuntu",
         "Wordpress"      
       ]
