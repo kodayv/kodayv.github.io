@@ -9,7 +9,7 @@ labels:
   - East-West
 ---
 
-<img class="ui medium left floated image" src="../images/machiavelli.jpg">
+<img class="ui medium left floated image" src="../images/east-west.jpg">
 
 
 ## POWER
