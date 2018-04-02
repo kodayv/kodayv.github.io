@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kali2.jpg
+image: images/kali4.jpg
 title: Penetration Test Report
 permalink: projects/pentest
 date: 2018
