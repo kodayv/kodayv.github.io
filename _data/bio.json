@@ -3,16 +3,16 @@
     "name": "Virginia Koday",
     "label": "Student",
     "picture": "https://kodayv.github.io/images/profmefeb18.jpg",
-    "email": "kodayv@hawaii.edu",
+    "email": "Virginia.Koday@du.edu",
     "phone": "",
     "website": "https://kodayv.github.io",
-    "summary": "I am graduating in May 2018 with a BA in Information and Computer Science with a certificate in Russian Studies at the University of Hawaii.",
+    "summary": "I am graduating in May 2020 with a MS in Cybersecurity at the University of Denver.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "80218",
+      "city": "Denver",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Colorado"
     },
     "profiles": [
       {
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Management",
+      "name": "Security",
       "keywords": [
       ]
     },
@@ -52,7 +52,7 @@
   "skills": [
     {
       "name": "Program Languages and Frameworks",
-      "level": "",
+      "level": "Entry Level",
       "keywords": [
         "Ajax",
         "Assembly",
@@ -71,7 +71,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": " Entry Level",
       "keywords": [
         "Eclipse",
         "Git/GitHub",
@@ -95,11 +95,21 @@
   ],
   "education": [
     {
+      "institution": "University of Denver, Denver, CO",
+      "area": "Cybersecurity",
+      "studyType": "M.S.",
+      "startDate": "2018-09-10",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Science with a Certificate in Russian Studies (expected Spring, 2018)",
+      "area": "Information and Computer Science",
       "studyType": "B.A.",
       "startDate": "2013-09-01",
-      "endDate": "Present",
+      "endDate": "2018-05-12",
       "gpa": "3.65",
       "courses": [
       ]
